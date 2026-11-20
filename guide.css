@@ -1,0 +1,17 @@
+body {
+  max-width: 760px;
+  margin: 40px auto;
+  padding: 0 24px;
+  font: 17px/1.75 system-ui, sans-serif;
+  background: #fafaf8;
+  color: #242923;
+}
+
+a { color: #246549; }
+h1 { font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.2; }
+h2 { font-size: 1.35rem; line-height: 1.4; }
+section { border-top: 1px solid #dce2da; margin-top: 28px; padding-top: 8px; }
+figure { margin: 20px 0; }
+img { display: block; max-width: 100%; width: 320px; height: auto; border: 1px solid #dce2da; border-radius: 12px; box-sizing: border-box; }
+figcaption { margin-top: 8px; font-size: 0.9rem; }
+footer { margin-top: 40px; font-size: 0.875rem; }

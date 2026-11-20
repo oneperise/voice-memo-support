@@ -1,6 +1,6 @@
-# Voice-Memo Support
+# Voice Here: Voice Notes Support
 
-Public support and privacy-policy documents for Voice-Memo on iPhone.
+Public usage guides, support, and privacy-policy documents for Voice Here: Voice Notes on iPhone.
 
 - Support: https://oneperise.github.io/voice-memo-support/
 - Privacy: https://oneperise.github.io/voice-memo-support/privacy.html
